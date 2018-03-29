@@ -1,0 +1,21 @@
+.card   {
+    opacity: 0.85;
+}
+
+h1  {
+    text-align: center;
+    font-size: 80px;
+}
+
+body    {
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+.jumbotron  {
+    background-color: lightslategray;
+}
+
+.card-header    {
+    background-color: lightslategray;
+}
