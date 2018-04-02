@@ -1,3 +1,7 @@
+body{
+    background-attachment: fixed;
+}
+
 .card   {
     opacity: 0.85;
 }
